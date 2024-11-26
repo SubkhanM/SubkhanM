@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=35&pause=1000&center=true&vCenter=true&multiline=true&width=1050&height=200&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Deon;%F0%9F%8C%9F+Developer+%7C+%F0%9F%9A%80+Problem+Solver+%7C+%F0%9F%8C%8D+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=35&pause=1000&center=true&vCenter=true&multiline=true&width=1050&height=150&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Deon;%F0%9F%8C%9F+Developer+%7C+%F0%9F%9A%80+Problem+Solver+%7C+%F0%9F%8C%8D+Tech+Enthusiast)](https://git.io/typing-svg)
 <pre>
     💼 ITS-Surabaya • Code dev • Platform Engineer
     💻 System programming languages • DevOps 

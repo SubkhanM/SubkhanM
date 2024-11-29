@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Programming Game**
 
-- 🤝 I’m looking for help with **contributing to open source projects related to Game Development or AI.**
+- 🤝 I’m looking for help with **contributing to open source projects related to Web Programming, Hacking , or AI.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SubkhanM](https://github.com/SubkhanM)
 

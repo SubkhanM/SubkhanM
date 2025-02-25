@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Html, CSS, C++, AutoHotKey, JavaScript, Python, Docker, Figma, VueJS, and OWASP Zap**
 
-- 👯 I’m looking to collaborate on **Programming Game**
+- 👯 I’m looking to collaborate on **Programming Software**
 
 - 🤝 I’m looking for help with **contributing to open source projects related to Web Programming, Hacking , or AI.**
 

@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently study on [Institut Teknologi Sepuluh Nopember Surabaya](https://www.its.ac.id/id/beranda/)
 
-- 🌱 I’m currently learning **Html, CSS, C++, AutoHotKey, JavaScript, Python, Docker, Figma, VueJS, and OWASP Zap**
+- 🌱 I’m currently learning **Html, CSS, C++, JavaScript, Python, Docker, Figma, VueJS, and OWASP Zap**
 
 - 👯 I’m looking to collaborate on **Programming Software**
 

@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SubkhanM](https://github.com/SubkhanM)
 
-- 💬 Ask me about **AHK (AutoHotKey), HTML, CSS, JS, and Anything**
+- 💬 Ask me about **HTML, CSS, JS, and Anything**
 
 - 📫 How to reach me **subkhanmasudi8@gmail.com**
 
